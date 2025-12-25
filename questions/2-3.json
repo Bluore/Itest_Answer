@@ -1,0 +1,797 @@
+{
+    "code": 0,
+    "msg": "SUCCESS",
+    "rs": {
+        "subScores": "6",
+        "quesGroups": [
+            {
+                "questions": [
+                    {
+                        "typeCat": 1,
+                        "corrType": 1,
+                        "realCorrType": 1,
+                        "showType": 1,
+                        "hasPair": false,
+                        "hasMachineRate": false,
+                        "pairUsername": "",
+                        "username": "桑常晟  （24070820424）",
+                        "showMachineScore": false,
+                        "showPairUsername": false,
+                        "quesNodeName": "Passage 1",
+                        "quesId": 1001055179,
+                        "pairUid": null,
+                        "uid": 1011807999,
+                        "hasRole": false,
+                        "userRole": "",
+                        "pairUserRole": "",
+                        "pairInOrder": false,
+                        "standard": null,
+                        "subItemScore": null,
+                        "subQuestions": [
+                            {
+                                "quesIndex": 11,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "A",
+                                "stdAnswer": "A",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 12,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "B",
+                                "stdAnswer": "B",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 13,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "C",
+                                "stdAnswer": "C",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            }
+                        ],
+                        "canRatePair": false,
+                        "fullScore": "3",
+                        "error": null,
+                        "record": false
+                    },
+                    {
+                        "typeCat": 1,
+                        "corrType": 1,
+                        "realCorrType": 1,
+                        "showType": 1,
+                        "hasPair": false,
+                        "hasMachineRate": false,
+                        "pairUsername": "",
+                        "username": "桑常晟  （24070820424）",
+                        "showMachineScore": false,
+                        "showPairUsername": false,
+                        "quesNodeName": "Passage 2",
+                        "quesId": 1001055178,
+                        "pairUid": null,
+                        "uid": 1011807999,
+                        "hasRole": false,
+                        "userRole": "",
+                        "pairUserRole": "",
+                        "pairInOrder": false,
+                        "standard": null,
+                        "subItemScore": null,
+                        "subQuestions": [
+                            {
+                                "quesIndex": 14,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "B",
+                                "stdAnswer": "B",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 15,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "D",
+                                "stdAnswer": "D",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 16,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "D",
+                                "stdAnswer": "D",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            }
+                        ],
+                        "canRatePair": false,
+                        "fullScore": "3",
+                        "error": null,
+                        "record": false
+                    }
+                ],
+                "quesInfos": [
+                    {
+                        "quesId": 1001055179,
+                        "quesTypeChName": "短文理解_客观题",
+                        "quesBankChName": "大学英语Ⅰ（三）",
+                        "quesYear": "2023",
+                        "quesTags": [],
+                        "answerCount": 11987,
+                        "answerAccuracy": "76.55%",
+                        "shareStatus": "公开",
+                        "createUserName": "A201704075(高爱望)",
+                        "dataFrom": "原创",
+                        "resPath": "https://itestres.unipus.cn/itest-product/2273/quesitestmp3/202310/f2f4093db88274be6fc3a72d05805730.mp3",
+                        "startIndex": 11,
+                        "resTitle": null,
+                        "laterTitleRes": null,
+                        "laterTitle": null,
+                        "frontTitle": null,
+                        "hasOption": false,
+                        "optionsRandom": true,
+                        "showStartIndex": false,
+                        "optionShowStartIndex": false,
+                        "wzdyParseNeedDisplay": false,
+                        "parseNeedDisplay": false,
+                        "answerNeedDisplay": false,
+                        "subListNeedDisplay": true,
+                        "originalOptions": null,
+                        "options": null,
+                        "roleList": null,
+                        "subQuesInfos": [
+                            {
+                                "resPath": null,
+                                "startIndex": 11,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "How celebrities deal with stress.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "How celebrities achieve success.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The disadvantages of being famous.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The advantages of being regular people.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "The disadvantages of being famous.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "How celebrities achieve success.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The advantages of being regular people.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "How celebrities deal with stress.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": " What is the speaker mainly talking about? ",
+                                "qanswer": null
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 12,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": false,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "They face too many temptations.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "They are under great stress from the media.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "They care more about fame than their family.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "They put more focus on work than their family.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "They face too many temptations.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "They are under great stress from the media.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "They care more about fame than their family.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "They put more focus on work than their family.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "Why are celebrities more likely to have family problems?",
+                                "qanswer": "B"
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 13,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "Many people hope to become celebrities.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "Celebrities often live an unhealthy lifestyle.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "Fame is dangerous and challenging in a way.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "Celebrities have to face the challenges of fame.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "Celebrities often live an unhealthy lifestyle.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "Many people hope to become celebrities.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "Fame is dangerous and challenging in a way.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "Celebrities have to face the challenges of fame.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What point does the speaker make at the end?\n",
+                                "qanswer": null
+                            }
+                        ],
+                        "qdirRes": null,
+                        "qdir": null,
+                        "qpath": null,
+                        "qreading": null,
+                        "qparse": null,
+                        "qtitle": null,
+                        "qoptionTitle": null,
+                        "qanswer": null
+                    },
+                    {
+                        "quesId": 1001055178,
+                        "quesTypeChName": "短文理解_客观题",
+                        "quesBankChName": "大学英语Ⅰ（三）",
+                        "quesYear": "2023",
+                        "quesTags": [],
+                        "answerCount": 11936,
+                        "answerAccuracy": "76.91%",
+                        "shareStatus": "公开",
+                        "createUserName": "A201704075(高爱望)",
+                        "dataFrom": "原创",
+                        "resPath": "https://itestres.unipus.cn/itest-product/2273/quesitestmp3/202310/503f2bde9bc7857367e1122a4491424e.mp3",
+                        "startIndex": 14,
+                        "resTitle": null,
+                        "laterTitleRes": null,
+                        "laterTitle": null,
+                        "frontTitle": null,
+                        "hasOption": false,
+                        "optionsRandom": true,
+                        "showStartIndex": false,
+                        "optionShowStartIndex": false,
+                        "wzdyParseNeedDisplay": false,
+                        "parseNeedDisplay": false,
+                        "answerNeedDisplay": false,
+                        "subListNeedDisplay": true,
+                        "originalOptions": null,
+                        "options": null,
+                        "roleList": null,
+                        "subQuesInfos": [
+                            {
+                                "resPath": null,
+                                "startIndex": 14,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "To encourage people to think positively.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "To remind people of what makes them happy.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "To highlight happiness and well-being as common goals.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "To make people think about all human beings worldwide.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "To encourage people to think positively.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "To highlight happiness and well-being as common goals.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "To remind people of what makes them happy.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "To make people think about all human beings worldwide.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What is the purpose of the International Day of Happiness?  ",
+                                "qanswer": null
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 15,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "The Global Peace Index.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "The Good Country Index.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The Human Development Index.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The Gross National Happiness Index.",
+                                        "right": true
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "The Human Development Index.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "The Good Country Index.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The Global Peace Index.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The Gross National Happiness Index.",
+                                        "right": true
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What did Bhutan propose to assess happiness?",
+                                "qanswer": null
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 16,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "Everyone on the equator can feel the equinox.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "The equinox indicates the beginning of spring.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The equinox is a symbol of equality for all people.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The equinox happens on the same day every year.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "Everyone on the equator can feel the equinox.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "The equinox indicates the beginning of spring.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The equinox happens on the same day every year.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The equinox is a symbol of equality for all people.",
+                                        "right": true
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "Why is the Day of Happiness fixed around the equinox?   ",
+                                "qanswer": null
+                            }
+                        ],
+                        "qdirRes": null,
+                        "qdir": null,
+                        "qpath": null,
+                        "qreading": null,
+                        "qparse": null,
+                        "qtitle": null,
+                        "qoptionTitle": null,
+                        "qanswer": null
+                    }
+                ]
+            }
+        ]
+    }
+}

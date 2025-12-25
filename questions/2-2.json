@@ -1,0 +1,797 @@
+{
+    "code": 0,
+    "msg": "SUCCESS",
+    "rs": {
+        "subScores": "6",
+        "quesGroups": [
+            {
+                "questions": [
+                    {
+                        "typeCat": 1,
+                        "corrType": 1,
+                        "realCorrType": 1,
+                        "showType": 1,
+                        "hasPair": false,
+                        "hasMachineRate": false,
+                        "pairUsername": "",
+                        "username": "桑常晟  （24070820424）",
+                        "showMachineScore": false,
+                        "showPairUsername": false,
+                        "quesNodeName": "Conversation 1",
+                        "quesId": 1001055176,
+                        "pairUid": null,
+                        "uid": 1011807999,
+                        "hasRole": false,
+                        "userRole": "",
+                        "pairUserRole": "",
+                        "pairInOrder": false,
+                        "standard": null,
+                        "subItemScore": null,
+                        "subQuestions": [
+                            {
+                                "quesIndex": 5,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "D",
+                                "stdAnswer": "D",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 6,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "D",
+                                "stdAnswer": "D",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 7,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "D",
+                                "stdAnswer": "D",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            }
+                        ],
+                        "canRatePair": false,
+                        "fullScore": "3",
+                        "error": null,
+                        "record": false
+                    },
+                    {
+                        "typeCat": 1,
+                        "corrType": 1,
+                        "realCorrType": 1,
+                        "showType": 1,
+                        "hasPair": false,
+                        "hasMachineRate": false,
+                        "pairUsername": "",
+                        "username": "桑常晟  （24070820424）",
+                        "showMachineScore": false,
+                        "showPairUsername": false,
+                        "quesNodeName": "Conversation 2",
+                        "quesId": 1001055175,
+                        "pairUid": null,
+                        "uid": 1011807999,
+                        "hasRole": false,
+                        "userRole": "",
+                        "pairUserRole": "",
+                        "pairInOrder": false,
+                        "standard": null,
+                        "subItemScore": null,
+                        "subQuestions": [
+                            {
+                                "quesIndex": 8,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "B",
+                                "stdAnswer": "B",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 9,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "B",
+                                "stdAnswer": "B",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 10,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "C",
+                                "stdAnswer": "C",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            }
+                        ],
+                        "canRatePair": false,
+                        "fullScore": "3",
+                        "error": null,
+                        "record": false
+                    }
+                ],
+                "quesInfos": [
+                    {
+                        "quesId": 1001055176,
+                        "quesTypeChName": "长对话_客观题",
+                        "quesBankChName": "大学英语Ⅰ（三）",
+                        "quesYear": "2023",
+                        "quesTags": [],
+                        "answerCount": 11941,
+                        "answerAccuracy": "80.9%",
+                        "shareStatus": "公开",
+                        "createUserName": "A201704075(高爱望)",
+                        "dataFrom": "原创",
+                        "resPath": "https://itestres.unipus.cn/itest-product/2273/quesitestmp3/202310/66859d912e8a0c9c96916994df4bcc2d.mp3",
+                        "startIndex": 5,
+                        "resTitle": null,
+                        "laterTitleRes": null,
+                        "laterTitle": null,
+                        "frontTitle": null,
+                        "hasOption": false,
+                        "optionsRandom": true,
+                        "showStartIndex": false,
+                        "optionShowStartIndex": false,
+                        "wzdyParseNeedDisplay": false,
+                        "parseNeedDisplay": false,
+                        "answerNeedDisplay": false,
+                        "subListNeedDisplay": true,
+                        "originalOptions": null,
+                        "options": null,
+                        "roleList": null,
+                        "subQuesInfos": [
+                            {
+                                "resPath": null,
+                                "startIndex": 5,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "Mothers are ranked top.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "Few people list famous stars.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "Most people list family members.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "Fathers are ranked as high as mothers.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "Fathers are ranked as high as mothers.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "Few people list famous stars.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "Most people list family members.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "Mothers are ranked top.",
+                                        "right": true
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What is the result of the online survey about personal heroes?",
+                                "qanswer": null
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 6,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "He is shocked.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "He is interested.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "He is not surprised.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "He doesn’t believe it.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "He doesn’t believe it.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "He is interested.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "He is shocked.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "He is not surprised.",
+                                        "right": true
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What is the man’s response to the survey result?",
+                                "qanswer": null
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 7,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "They have a good education.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "They are willing to inspire others.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "They often attribute their success to their mothers.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "They are considered as famous heroes by the young.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "They are considered as famous heroes by the young.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "They have a good education.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "They are willing to inspire others.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "They often attribute their success to their mothers.",
+                                        "right": true
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What does the man say about many successful people?",
+                                "qanswer": null
+                            }
+                        ],
+                        "qdirRes": null,
+                        "qdir": null,
+                        "qpath": null,
+                        "qreading": null,
+                        "qparse": null,
+                        "qtitle": null,
+                        "qoptionTitle": null,
+                        "qanswer": null
+                    },
+                    {
+                        "quesId": 1001055175,
+                        "quesTypeChName": "长对话_客观题",
+                        "quesBankChName": "大学英语Ⅰ（三）",
+                        "quesYear": "2023",
+                        "quesTags": [],
+                        "answerCount": 11898,
+                        "answerAccuracy": "76.4%",
+                        "shareStatus": "公开",
+                        "createUserName": "A201704075(高爱望)",
+                        "dataFrom": "原创",
+                        "resPath": "https://itestres.unipus.cn/itest-product/2273/quesitestmp3/202310/e1f474453987c8dd24df54a42c97a16f.mp3",
+                        "startIndex": 8,
+                        "resTitle": null,
+                        "laterTitleRes": null,
+                        "laterTitle": null,
+                        "frontTitle": null,
+                        "hasOption": false,
+                        "optionsRandom": true,
+                        "showStartIndex": false,
+                        "optionShowStartIndex": false,
+                        "wzdyParseNeedDisplay": false,
+                        "parseNeedDisplay": false,
+                        "answerNeedDisplay": false,
+                        "subListNeedDisplay": true,
+                        "originalOptions": null,
+                        "options": null,
+                        "roleList": null,
+                        "subQuesInfos": [
+                            {
+                                "resPath": null,
+                                "startIndex": 8,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "Bob Dylan and his music.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "Songwriting and literature.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "Bob Dylan as a Nobel Prize winner.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The winners of the 2016 Nobel Prizes.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "Bob Dylan and his music.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "Bob Dylan as a Nobel Prize winner.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "Songwriting and literature.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The winners of the 2016 Nobel Prizes.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What are the speakers mainly talking about?",
+                                "qanswer": null
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 9,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "Bob Dylan and his albums.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "A musician winning the Nobel Prize.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "Redefining the boundaries of literature.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The candidates of the 2016 Nobel Prizes.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "Bob Dylan and his albums.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "A musician winning the Nobel Prize.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The candidates of the 2016 Nobel Prizes.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "Redefining the boundaries of literature.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What caused a heated debate when Bob Dylan won the Nobel Prize?",
+                                "qanswer": null
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 10,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "He wrote poetry for the ear.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "He rewrote the traditional literature.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "He challenged the American song tradition.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "He created poetic expressions within the American song tradition.",
+                                        "right": true
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "He challenged the American song tradition.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "He wrote poetry for the ear.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "He created poetic expressions within the American song tradition.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "He rewrote the traditional literature.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What did the Swedish Academy say about Bob Dylan?",
+                                "qanswer": null
+                            }
+                        ],
+                        "qdirRes": null,
+                        "qdir": null,
+                        "qpath": null,
+                        "qreading": null,
+                        "qparse": null,
+                        "qtitle": null,
+                        "qoptionTitle": null,
+                        "qanswer": null
+                    }
+                ]
+            }
+        ]
+    }
+}

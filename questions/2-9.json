@@ -1,0 +1,130 @@
+{
+    "code": 0,
+    "msg": "SUCCESS",
+    "rs": {
+        "subScores": "未判分",
+        "quesGroups": [
+            {
+                "questions": [
+                    {
+                        "typeCat": 3,
+                        "corrType": 10,
+                        "realCorrType": 12,
+                        "showType": -1,
+                        "hasPair": false,
+                        "hasMachineRate": true,
+                        "pairUsername": "",
+                        "username": "桑常晟  （24070820424）",
+                        "showMachineScore": false,
+                        "showPairUsername": false,
+                        "quesNodeName": "写作",
+                        "quesId": 1001363997,
+                        "pairUid": null,
+                        "uid": 1011807999,
+                        "hasRole": false,
+                        "userRole": "",
+                        "pairUserRole": "",
+                        "pairInOrder": false,
+                        "standard": null,
+                        "subItemScore": null,
+                        "subQuestions": [
+                            {
+                                "quesIndex": 54,
+                                "fullScore": "15",
+                                "machineScore": "未判分",
+                                "score": null,
+                                "finalScore": "未判分",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 0,
+                                "pairRightFlag": 0,
+                                "userAnswer": "Among all the people I have met in my life , the most unforgettable one is my junjor high school math teacher , Mr. Wang.\nHe is unforgettable for two key reasons. First, he had a unique way of making complex math concepts easy to understand . When I was confused about geometry , he used real-life objects like boxes and rulers to demonstrate theorems , which made me suddenly see the light . Second , he was always encouraging . Once I failed a crucial exam and was on the verge of giving up , he took me to his office , analyzed my mistakes patiently , and told me , \"Mistakes are just stepping stones to success . \" His words gave me the courage to keep going .\nMr. Wang's teaching and encouragement have had a lasting impact on me . He not noly taught me math but also taught me importance of perseverance . I will always remember him with great respect and gratitude .",
+                                "stdAnswer": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The Most Unforgettable Person I Ever Know</b><br />\n&nbsp; &nbsp; &nbsp; &nbsp; In my life I have met a great many people who are really worth recalling. But perhaps the most unforgettable person I ever know is my English teacher.<br />\n&nbsp; &nbsp; &nbsp; &nbsp; What frequently brings back memories of my school teacher is his special qualities. First and foremost, he gave us the greatest gift a teacher can offer—an awakening of a passion for learning. He not only led us to an appreciation of the beauty and perfection of English language and literature, but also aroused our great interest in exploring something deeper in this field. Furthermore, I was attracted by his lively wit. I remember that we students always anticipated his class with great eagerness because his lecture were humorously delivered, never failing to provoke chuckles or loud laughs.<br />\n&nbsp; &nbsp; &nbsp; &nbsp; Although it is nearly two years since I attended his last class, he is the talk of our old classmates, and I know part of him has already stayed in my heart.",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 151,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            }
+                        ],
+                        "canRatePair": false,
+                        "fullScore": "15",
+                        "error": null,
+                        "record": false
+                    }
+                ],
+                "quesInfos": [
+                    {
+                        "quesId": 1001363997,
+                        "quesTypeChName": "写作_主观题机评",
+                        "quesBankChName": "大学英语Ⅰ（三）",
+                        "quesYear": "2023",
+                        "quesTags": [],
+                        "answerCount": 8108,
+                        "answerAccuracy": "56.74%",
+                        "shareStatus": "公开",
+                        "createUserName": "A201304013(陈鸥)",
+                        "dataFrom": "原创",
+                        "resPath": null,
+                        "startIndex": 54,
+                        "resTitle": null,
+                        "laterTitleRes": null,
+                        "laterTitle": null,
+                        "frontTitle": null,
+                        "hasOption": false,
+                        "optionsRandom": false,
+                        "showStartIndex": true,
+                        "optionShowStartIndex": false,
+                        "wzdyParseNeedDisplay": false,
+                        "parseNeedDisplay": false,
+                        "answerNeedDisplay": true,
+                        "subListNeedDisplay": false,
+                        "originalOptions": null,
+                        "options": null,
+                        "roleList": null,
+                        "subQuesInfos": null,
+                        "qdirRes": null,
+                        "qdir": " ",
+                        "qpath": null,
+                        "qreading": null,
+                        "qparse": null,
+                        "qtitle": "<div>Directions: For this part, you are allowed 30 minutes to write an essay&nbsp;on the topic:&nbsp;<b>The Most Unforgettable Person I Ever Know</b>. Your composition should be based&nbsp;on the outline given below. You should write at least 120 words but no more than 180 words on the Answer Sheet.<br />\n&nbsp;Outlines:<br />\n&nbsp;1.我生活中最难忘的人是，<br />\n&nbsp;2.为什么他(或她)令我难以忘怀，<br />\n&nbsp;3.结论。</div>",
+                        "qoptionTitle": null,
+                        "qanswer": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The Most Unforgettable Person I Ever Know</b><br />\n&nbsp; &nbsp; &nbsp; &nbsp; In my life I have met a great many people who are really worth recalling. But perhaps the most unforgettable person I ever know is my English teacher.<br />\n&nbsp; &nbsp; &nbsp; &nbsp; What frequently brings back memories of my school teacher is his special qualities. First and foremost, he gave us the greatest gift a teacher can offer—an awakening of a passion for learning. He not only led us to an appreciation of the beauty and perfection of English language and literature, but also aroused our great interest in exploring something deeper in this field. Furthermore, I was attracted by his lively wit. I remember that we students always anticipated his class with great eagerness because his lecture were humorously delivered, never failing to provoke chuckles or loud laughs.<br />\n&nbsp; &nbsp; &nbsp; &nbsp; Although it is nearly two years since I attended his last class, he is the talk of our old classmates, and I know part of him has already stayed in my heart."
+                    }
+                ]
+            }
+        ]
+    }
+}

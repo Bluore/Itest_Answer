@@ -1,0 +1,581 @@
+{
+    "code": 0,
+    "msg": "SUCCESS",
+    "rs": {
+        "subScores": "4",
+        "quesGroups": [
+            {
+                "questions": [
+                    {
+                        "typeCat": 1,
+                        "corrType": 1,
+                        "realCorrType": 1,
+                        "showType": 1,
+                        "hasPair": false,
+                        "hasMachineRate": false,
+                        "pairUsername": "",
+                        "username": "桑常晟  （24070820424）",
+                        "showMachineScore": false,
+                        "showPairUsername": false,
+                        "quesNodeName": "News Report 1",
+                        "quesId": 1001055174,
+                        "pairUid": null,
+                        "uid": 1011807999,
+                        "hasRole": false,
+                        "userRole": "",
+                        "pairUserRole": "",
+                        "pairInOrder": false,
+                        "standard": null,
+                        "subItemScore": null,
+                        "subQuestions": [
+                            {
+                                "quesIndex": 1,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "C",
+                                "stdAnswer": "C",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 2,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "C",
+                                "stdAnswer": "C",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            }
+                        ],
+                        "canRatePair": false,
+                        "fullScore": "2",
+                        "error": null,
+                        "record": false
+                    },
+                    {
+                        "typeCat": 1,
+                        "corrType": 1,
+                        "realCorrType": 1,
+                        "showType": 1,
+                        "hasPair": false,
+                        "hasMachineRate": false,
+                        "pairUsername": "",
+                        "username": "桑常晟  （24070820424）",
+                        "showMachineScore": false,
+                        "showPairUsername": false,
+                        "quesNodeName": "News Report 2",
+                        "quesId": 1001055173,
+                        "pairUid": null,
+                        "uid": 1011807999,
+                        "hasRole": false,
+                        "userRole": "",
+                        "pairUserRole": "",
+                        "pairInOrder": false,
+                        "standard": null,
+                        "subItemScore": null,
+                        "subQuestions": [
+                            {
+                                "quesIndex": 3,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "A",
+                                "stdAnswer": "A",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 4,
+                                "fullScore": "1",
+                                "machineScore": "未判分",
+                                "score": "1",
+                                "finalScore": "1",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "A",
+                                "stdAnswer": "A",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            }
+                        ],
+                        "canRatePair": false,
+                        "fullScore": "2",
+                        "error": null,
+                        "record": false
+                    }
+                ],
+                "quesInfos": [
+                    {
+                        "quesId": 1001055174,
+                        "quesTypeChName": "新闻报道（选择）_客观题",
+                        "quesBankChName": "大学英语Ⅰ（三）",
+                        "quesYear": "2023",
+                        "quesTags": [],
+                        "answerCount": 12047,
+                        "answerAccuracy": "76.02%",
+                        "shareStatus": "公开",
+                        "createUserName": "A201704075(高爱望)",
+                        "dataFrom": "原创",
+                        "resPath": "https://itestres.unipus.cn/itest-product/2273/quesitestmp3/202310/5d0126b32881151a8240e8909a540da0.mp3",
+                        "startIndex": 1,
+                        "resTitle": null,
+                        "laterTitleRes": null,
+                        "laterTitle": null,
+                        "frontTitle": null,
+                        "hasOption": false,
+                        "optionsRandom": true,
+                        "showStartIndex": false,
+                        "optionShowStartIndex": false,
+                        "wzdyParseNeedDisplay": false,
+                        "parseNeedDisplay": false,
+                        "answerNeedDisplay": false,
+                        "subListNeedDisplay": true,
+                        "originalOptions": null,
+                        "options": null,
+                        "roleList": null,
+                        "subQuesInfos": [
+                            {
+                                "resPath": null,
+                                "startIndex": 1,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "The sales of gardening equipment in China.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "Elderly people's interest in gardening in China.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "City residents' interest in gardening equipment in China.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The popularity of gardening among young people in China.",
+                                        "right": true
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "Elderly people's interest in gardening in China.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "The sales of gardening equipment in China.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The popularity of gardening among young people in China.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "City residents' interest in gardening equipment in China.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What is the news report mainly about?\n",
+                                "qanswer": null
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 2,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "He is running a farm in Beijing.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "He started gardening on his balcony.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "He has a lot of gardening experience.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "He has got used to a more sustainable lifestyle.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "He has got used to a more sustainable lifestyle.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "He is running a farm in Beijing.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "He started gardening on his balcony.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "He has a lot of gardening experience.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What does the news report say about David Jones?",
+                                "qanswer": null
+                            }
+                        ],
+                        "qdirRes": null,
+                        "qdir": null,
+                        "qpath": null,
+                        "qreading": null,
+                        "qparse": null,
+                        "qtitle": null,
+                        "qoptionTitle": null,
+                        "qanswer": null
+                    },
+                    {
+                        "quesId": 1001055173,
+                        "quesTypeChName": "新闻报道（选择）_客观题",
+                        "quesBankChName": "大学英语Ⅰ（三）",
+                        "quesYear": "2023",
+                        "quesTags": [],
+                        "answerCount": 11965,
+                        "answerAccuracy": "77.25%",
+                        "shareStatus": "公开",
+                        "createUserName": "A201704075(高爱望)",
+                        "dataFrom": "原创",
+                        "resPath": "https://itestres.unipus.cn/itest-product/2273/quesitestmp3/202310/59d2dbebcb4a66662353ac579cca47ea.mp3",
+                        "startIndex": 3,
+                        "resTitle": null,
+                        "laterTitleRes": null,
+                        "laterTitle": null,
+                        "frontTitle": null,
+                        "hasOption": false,
+                        "optionsRandom": true,
+                        "showStartIndex": false,
+                        "optionShowStartIndex": false,
+                        "wzdyParseNeedDisplay": false,
+                        "parseNeedDisplay": false,
+                        "answerNeedDisplay": false,
+                        "subListNeedDisplay": true,
+                        "originalOptions": null,
+                        "options": null,
+                        "roleList": null,
+                        "subQuesInfos": [
+                            {
+                                "resPath": null,
+                                "startIndex": 3,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": " The distinctive style of African architecture.\n",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "This year's Pritzker Architecture Prize winner.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The techniques mostly used by an architect.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The history of the Pritzker Architecture Prize.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "This year's Pritzker Architecture Prize winner.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "The techniques mostly used by an architect.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The history of the Pritzker Architecture Prize.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": " The distinctive style of African architecture.\n",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What is the news report mainly about?",
+                                "qanswer": null
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 4,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "He thought it meant more opportunities for him.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "He thought it should be awarded to a younger person.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "He thought it would inspire the young people in his country.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "He thought it could bring attention to the young African people.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "He thought it would inspire the young people in his country.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "He thought it should be awarded to a younger person.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "He thought it could bring attention to the young African people.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "He thought it meant more opportunities for him.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "How did Kéré view his winning the prize?\n",
+                                "qanswer": null
+                            }
+                        ],
+                        "qdirRes": null,
+                        "qdir": null,
+                        "qpath": null,
+                        "qreading": null,
+                        "qparse": null,
+                        "qtitle": null,
+                        "qoptionTitle": null,
+                        "qanswer": null
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,622 @@
+{
+    "code": 0,
+    "msg": "SUCCESS",
+    "rs": {
+        "subScores": "10",
+        "quesGroups": [
+            {
+                "questions": [
+                    {
+                        "typeCat": 2,
+                        "corrType": 1,
+                        "realCorrType": 1,
+                        "showType": 1,
+                        "hasPair": false,
+                        "hasMachineRate": false,
+                        "pairUsername": "",
+                        "username": "桑常晟  （24070820424）",
+                        "showMachineScore": false,
+                        "showPairUsername": false,
+                        "quesNodeName": "仔细阅读2",
+                        "quesId": 1001363702,
+                        "pairUid": null,
+                        "uid": 1011807999,
+                        "hasRole": false,
+                        "userRole": "",
+                        "pairUserRole": "",
+                        "pairInOrder": false,
+                        "standard": null,
+                        "subItemScore": null,
+                        "subQuestions": [
+                            {
+                                "quesIndex": 44,
+                                "fullScore": "2",
+                                "machineScore": "未判分",
+                                "score": "2",
+                                "finalScore": "2",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "B",
+                                "stdAnswer": "B",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 45,
+                                "fullScore": "2",
+                                "machineScore": "未判分",
+                                "score": "2",
+                                "finalScore": "2",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "D",
+                                "stdAnswer": "D",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 46,
+                                "fullScore": "2",
+                                "machineScore": "未判分",
+                                "score": "2",
+                                "finalScore": "2",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "A",
+                                "stdAnswer": "A",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 47,
+                                "fullScore": "2",
+                                "machineScore": "未判分",
+                                "score": "2",
+                                "finalScore": "2",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "C",
+                                "stdAnswer": "C",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            },
+                            {
+                                "quesIndex": 48,
+                                "fullScore": "2",
+                                "machineScore": "未判分",
+                                "score": "2",
+                                "finalScore": "2",
+                                "pairScore": null,
+                                "pairMachineScore": null,
+                                "rightFlag": 1,
+                                "pairRightFlag": 0,
+                                "userAnswer": "A",
+                                "stdAnswer": "A",
+                                "recordAac": "",
+                                "pairAnswer": "",
+                                "comment": null,
+                                "pairComment": null,
+                                "iwriteDetail": {
+                                    "detailUrl": null,
+                                    "languageGrade": 0,
+                                    "contentGrade": 0,
+                                    "organizationGrade": 0,
+                                    "mechanicsGrade": 0,
+                                    "relevance": 0,
+                                    "coherence": 0,
+                                    "comment": "",
+                                    "showDetail": false
+                                },
+                                "chivoxDetail": {
+                                    "type": 0,
+                                    "wavetime": null,
+                                    "pron": null,
+                                    "integrity": null,
+                                    "fluency": null,
+                                    "total": null,
+                                    "relevance": null,
+                                    "resTotal": null,
+                                    "resText": null,
+                                    "totalScore": null,
+                                    "details": []
+                                },
+                                "subItemScore": null,
+                                "pairSubItemScore": null,
+                                "wordCount": 0,
+                                "markList": null,
+                                "tranSimilarityBean": {
+                                    "similarityList": null,
+                                    "showFlag": false
+                                }
+                            }
+                        ],
+                        "canRatePair": false,
+                        "fullScore": "10",
+                        "error": null,
+                        "record": false
+                    }
+                ],
+                "quesInfos": [
+                    {
+                        "quesId": 1001363702,
+                        "quesTypeChName": "仔细阅读_客观题",
+                        "quesBankChName": "大学英语Ⅰ（三）",
+                        "quesYear": "2024",
+                        "quesTags": [],
+                        "answerCount": 8741,
+                        "answerAccuracy": "80.67%",
+                        "shareStatus": "公开",
+                        "createUserName": "A201304007(麻亚东)",
+                        "dataFrom": "原创",
+                        "resPath": null,
+                        "startIndex": 44,
+                        "resTitle": null,
+                        "laterTitleRes": null,
+                        "laterTitle": null,
+                        "frontTitle": null,
+                        "hasOption": false,
+                        "optionsRandom": true,
+                        "showStartIndex": false,
+                        "optionShowStartIndex": false,
+                        "wzdyParseNeedDisplay": false,
+                        "parseNeedDisplay": false,
+                        "answerNeedDisplay": false,
+                        "subListNeedDisplay": true,
+                        "originalOptions": null,
+                        "options": null,
+                        "roleList": null,
+                        "subQuesInfos": [
+                            {
+                                "resPath": null,
+                                "startIndex": 44,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "It farther widens the gap between the old and the young.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "It often leads to innovations in other related fields.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "It contributes greatly to the advance of society as a whole.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "It usually falls along generational lines.",
+                                        "right": true
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "It contributes greatly to the advance of society as a whole.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "It usually falls along generational lines.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "It farther widens the gap between the old and the young.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "It often leads to innovations in other related fields.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What happens when a new technology emerges?",
+                                "qanswer": null
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 45,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "It does not seem to relate to age.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "It will not necessarily reduce road accidents.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "It may start a revolution in the car industry.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "It has given rise to unrealistic expectations.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "It has given rise to unrealistic expectations.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "It may start a revolution in the car industry.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "It will not necessarily reduce road accidents.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "It does not seem to relate to age.",
+                                        "right": true
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": " What does the author say about the driverless car?\n",
+                                "qanswer": null
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 46,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "It saves their energy.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "It helps with their mobility or difficulty driving by their own.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "It adds to the safety of their travel.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "It stirs up their interest in life.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "It helps with their mobility or difficulty driving by their own.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "It adds to the safety of their travel.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "It stirs up their interest in life.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "It saves their energy.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "Why does the driverless car appeal to some old people?",
+                                "qanswer": null
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 47,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "The location of their living place.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "The field of their special interest.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The amount of training they received.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The length of their driving experience.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "The amount of training they received.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "The field of their special interest.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The location of their living place.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The length of their driving experience.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "What is likely to affect one's attitude toward the driverless car?\n\n",
+                                "qanswer": null
+                            },
+                            {
+                                "resPath": null,
+                                "startIndex": 48,
+                                "resTitle": null,
+                                "hasOption": true,
+                                "optionsRandom": true,
+                                "answerNeedDisplay": true,
+                                "parseNeedDisplay": false,
+                                "optionShowStartIndex": true,
+                                "originalOptions": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "The seniors.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "The educated.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The wealthy.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The tech fans.",
+                                        "right": false
+                                    }
+                                ],
+                                "options": [
+                                    {
+                                        "optionName": "A",
+                                        "optionValue": "The wealthy.",
+                                        "right": true
+                                    },
+                                    {
+                                        "optionName": "B",
+                                        "optionValue": "The seniors.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "C",
+                                        "optionValue": "The educated.",
+                                        "right": false
+                                    },
+                                    {
+                                        "optionName": "D",
+                                        "optionValue": "The tech fans.",
+                                        "right": false
+                                    }
+                                ],
+                                "showStartIndex": true,
+                                "qpath": null,
+                                "qparse": null,
+                                "qtitle": "Who are likely to be the first to buy the driverless car?\n",
+                                "qanswer": null
+                            }
+                        ],
+                        "qdirRes": null,
+                        "qdir": null,
+                        "qpath": null,
+                        "qreading": null,
+                        "qparse": null,
+                        "qtitle": "<div style=\"text-align: justify;\">Attitudes toward new technologies often fall along generational lines. That is, generally, younger people tend to outnumber older people on the front end of a technological shift.<br />\n<br />\nIt is not always the case, though. When you look at attitudes toward driverless cars, there doesn't seem to be a clear generational divide. The public overall is split on whether they'd like to use a driverless car. In a study last year, of all people surveyed, 48 percent said they wanted to ride in one, while 50 percent did not.<br />\n<br />\nThe fact that attitudes toward self-driving cars appear to be so steady across generations suggests how transformative the shift to driverless cars could be. Not everyone wants a driverless car now—and no one can get one yet—but among those who are open to them, every age group is similarly engaged.<br />\n<br />\nActually, this isn't surprising. Whereas older generations are sometimes reluctant to adopt new technologies, driverless cars promise real value to these age groups in particular. Older adults, especially those with limited mobility or difficulty driving on their own, are one of the classic use-cases for driverless cars.<br />\n<br />\nThis is especially interesting when you consider that younger people are generally more interested in travel-related technologies than older ones.<br />\n<br />\nWhen it comes to driverless cars, differences in attitude are more pronounced based on factors not related to age. College graduates, for example, are particularly interested in driverless cars compared with those who have less education: 59 percent of college graduates said they would like to use a driverless car compared with 38 percent of those with a high-school diploma or less.<br />\n<br />\nWhere a person lives matters, too. More people who lived in cities and suburbs said they wanted to try driverless cars than those who lived in rural areas.While there's reason to believe that interest in self-driving cars is going up across the board, a person's age will have little to do with how self-driving cars can become mainstream. Once driverless cars are actually available for sale, the early adopters will be the people who can afford to buy them.</div>",
+                        "qoptionTitle": null,
+                        "qanswer": null
+                    }
+                ]
+            }
+        ]
+    }
+}
