@@ -31,6 +31,8 @@ def dealOneGroup():
             dealOneQuesInfo_translate(oneQuesInfo)
         elif oneQuesInfo['quesTypeChName'] == '写作_主观题机评':
             dealOneQuesInfo_write(oneQuesInfo)
+        elif oneQuesInfo['quesTypeChName'] == '段落填空（blank filling）_半主观题':
+            dealOneQuesInfo_fill(oneQuesInfo)
         times += 1
 
 
@@ -44,7 +46,7 @@ def dealOneQuesInfo_listen(subQuesInfos: list):
             "text": queOne['qtitle'],
             "audio": queOne['resPath']
         }
-        print(queOne)
+        # print(queOne)
         for option in queOne['originalOptions']:
             if option['right']:
                 questionOne['answer'] += option['optionValue']
@@ -145,6 +147,28 @@ def dealOneQuesInfo_write(subQue: list):
         "options": [],
         "text": Html_to_Text(subQue['qtitle'])
     }
+    questions.append(questionOne)
+
+def dealOneQuesInfo_fill(subQuesInfos: list):
+    ansList: list = []
+    for queOne in subQuesInfos['subQuesInfos']:
+        questionOne: dict = {
+            "type": "match",
+            "title": "dealOneQuesInfo_fill",
+            "answer":queOne['qanswer'],
+            "options": [queOne['qanswer']],
+            "text": "dealOneQuesInfo_fill"
+        }
+        ansList.append(queOne['qanswer'])
+        # questions.append(questionOne)
+    questionOne: dict = {
+        "type": "match_text",
+        "title": subQuesInfos['qtitle'],
+        "answer": str(ansList),
+        "options": ansList,
+        "text": Html_to_Text(subQuesInfos['qtitle'])
+    }
+    print(questionOne)
     questions.append(questionOne)
 
 
