@@ -33,6 +33,9 @@ def dealOneGroup():
             dealOneQuesInfo_write(oneQuesInfo)
         elif oneQuesInfo['quesTypeChName'] == '段落填空（blank filling）_半主观题':
             dealOneQuesInfo_fill(oneQuesInfo)
+        else:
+            print("未知题型：", oneQuesInfo['quesTypeChName'])
+            continue
         times += 1
 
 
@@ -168,7 +171,7 @@ def dealOneQuesInfo_fill(subQuesInfos: list):
         "options": ansList,
         "text": Html_to_Text(subQuesInfos['qtitle'])
     }
-    print(questionOne)
+    # print(questionOne)
     questions.append(questionOne)
 
 
@@ -182,5 +185,7 @@ for filename in os.listdir(directory):
         res_quesInfos = quesGroups['questions']
         dealOneGroup()
 
+
+print(f"处理词条完成，共整合题目{questions.__len__()}个")
 with open("decode.json", "w", encoding="utf-8") as f:
     json.dump(questions, f, ensure_ascii=False, indent=4)
